@@ -1,4 +1,4 @@
-<img src="citatel_100_pound_box.jpg" alt="100 Pound Box" width="400" />
+<img src="citatel_100_pound_box.jpg" alt="100 Pound Box" width="500" />
 
 The question is shared here: https://x.com/hamptonism/status/1903635109795770550
 
