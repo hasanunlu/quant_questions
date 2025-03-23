@@ -8,7 +8,7 @@ The expected net gain, after paying an amount $X$ for each attempt, is calculate
 ```math
 E = \frac{1}{4}*(100 - X) + \frac{3}{4}*\frac{1}{3}(100 - 2X) + \frac{3}{4}*\frac{2}{3}*\frac{1}{2}*(100 - 3X) + \frac{3}{4}*\frac{2}{3}*\frac{1}{2}*1*(100 - 4X)
 ```
-In the fair game, Expected net gain should be zero.
+In a fair game, the expected net gain should be zero.
 ```math
 0 = \frac{1}{4}*(100 - X) + \frac{3}{4}*\frac{1}{3}(100 - 2X) + \frac{3}{4}*\frac{2}{3}*\frac{1}{2}*(100 - 3X) + \frac{3}{4}*\frac{2}{3}*\frac{1}{2}*1*(100 - 4X)
 ```
